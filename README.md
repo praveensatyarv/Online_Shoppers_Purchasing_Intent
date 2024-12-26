@@ -97,13 +97,13 @@ We are most concerned with customer sessions that generate revenue. Therefore, w
 <p align="center">
   <figure>
     <img src="images/confusion_matrix_svm_smote.png" alt="Model 2: SVM" label="Model 2: SVM">
-    <figcaption>Model 1: Logistic Regression</figcaption>
+    <figcaption>Model 2: SVM</figcaption>
   </figure>
 </p>
 <p align="center">
   <figure>
     <img src="images/confusion_matrix_rf_smote.png" alt="Model 3: Random Forests" label="Model 3: Random Forests">
-    <figcaption>Model 1: Logistic Regression</figcaption>
+    <figcaption>Model 3: Random Forests</figcaption>
   </figure>
 </p>
 Looking at the True Positives, we can say that the Random Forests model has the best performance.
