@@ -121,6 +121,4 @@ All the models perform equally well on recall and accuracy.
 * All the models perform equally well when comparing recall and accuracy. They have a recall of 0.93 and an accuracy of 0.93. (NOTE: The naïve approach gives us 0.85 accuracy)
 * On comparing the True Positives, Random Forests model comes out as the best model
 
-## 7. References ##
-* [LinkedIn Article Link](https://www.linkedin.com/pulse/online-shoppers-purchasing-intent-classification-problem-r-v--xyqfc/?trackingId=VsYqrMyaSBWpHXyV5OrSDA%3D%3D)
-* [UC Irvine Dataset Link](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset)
+[LinkedIn Profile Link](https://www.linkedin.com/in/praveen-satya-r-v/) | [LinkedIn Article Link](https://www.linkedin.com/pulse/online-shoppers-purchasing-intent-classification-problem-r-v--xyqfc/?trackingId=VsYqrMyaSBWpHXyV5OrSDA%3D%3D) | [UC Irvine Dataset Link](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset)
